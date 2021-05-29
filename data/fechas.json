@@ -1,0 +1,79 @@
+[
+    {
+        "id" : 1,
+        "date" : "22 de Febrero",
+        "name" : "Soberanía en la Antártida Argentina",
+        "desc" : "El ejercicio de la soberanía argentina sobre la Antártida Argentina se efectiviza en todos los aspectos que no se encuentran limitados por la firma del Tratado Antártico en 1959.",
+        "image" : "22-2.jpg"
+    },
+    {
+        "id" : 2,
+        "date" : "24 de Marzo",
+        "name" : "Día de la memoria por la verdad y la justicia",
+        "desc" : "El Día en el que se conmemora en Argentina a las víctimas de la última dictadura militar, que usurpó el gobierno del Estado nacional argentino entre el 24 de marzo de 1976 y el 10 de diciembre de 1983.",
+        "image" : "24-3.jpg"
+    },
+    {
+        "id" : 3,
+        "date" : "2 de Abril",
+        "name" : "Día del Veterano y de los Caídos en la guerra de Malvinas",
+        "desc" : "El 2 de abril de 1982, la dictadura cívico-militar inició el desembarco de tropas en las islas Malvinas, usurpadas por Inglaterra desde 1833.",
+        "image" : "2-4.jpg"
+    },
+    {
+        "id" : 4,
+        "date" : "1 de Mayo",
+        "name" : "Día Internacional del Trabajador",
+        "desc" : "En conmemoración de la sangrienta represión que sufrieran los obreros de la fábrica McCormick, durante varios días de abril y mayo de 1886, en la ciudad de Chicago.",
+        "image" : "1-5.jpg"
+    },
+    {
+        "id" : 5,
+        "date" : "25 de Mayo",
+        "name" : "Día de la Patria y la Revolución de Mayo",
+        "desc" : "El 25 de mayo, fecha en que se destituyó al virrey Baltasar Hidalgo de Cisneros y se lo reemplazó por la Primera Junta de gobierno.",
+        "image" : "25-5.jpg"
+    },
+    {
+        "id" : 6,
+        "date" : "20 de Junio",
+        "name" : "Día de la Bandera",
+        "desc" : "Esa fecha es feriado nacional y día festivo dedicado a la bandera argentina y a la conmemoración de su creador, Manuel Belgrano, fallecido en ese día de 1820.",
+        "image" : "20-6.jpg"
+    },
+    {
+        "id" : 7,
+        "date" : "9 de Julio",
+        "name" : "Día de la Declaración de la Independencia",
+        "desc" : "Fue una decisión tomada el martes 9 de julio de 1816 por el Congreso de Tucumán, por la cual declaró la formal ruptura de los vínculos de dependencia política de las Provincias Unidas del Río de la Plata con la monarquía española.",
+        "image" : "9-7.jpg"
+    },
+    {
+        "id" : 8,
+        "date" : "17 de Agosto",
+        "name" : "Paso a la inmortalidad del Gral. José de San Martín",
+        "desc" : "El 17 de Agosto se conmemora en Argentina el aniversario de la muerte del General José de San Martín",
+        "image" : "17-8.jpg"
+    },
+    {
+        "id" : 9,
+        "date" : "11 de Septiembre",
+        "name" : "Día de los Maestros y las Maestras",
+        "desc" : "Reflexionar sobre el trabajo de los maestros y las maestras, escuchar sus voces, conocer la figura de Sarmiento y pensar el lugar de las mujeres y los hombres en la educación, son algunas de las propuestas que compartimos para trabajar la efeméride.",
+        "image" : "11-9.jpg"
+    },
+    {
+        "id" : 10,
+        "date" : "12 de Octubre",
+        "name" : "Día del respeto a la diversidad cultural",
+        "desc" : "El 12 de octubre es el día de reflexión histórica y diálogo intercultural acerca de los derechos de los pueblos originarios.",
+        "image" : "12-10.jpg"
+    },
+    {
+        "id" : 11,
+        "date" : "20 de Noviembre",
+        "name" : "Día de la soberanía nacional",
+        "desc" : "Día de la Soberanía Nacional en conmemoración a la batalla de la Vuelta de Obligado (1845). Allí se enfrentaron tropas argentinas y tropas de Gran Bretaña y Francia.",
+        "image" : "20-11.jpg"
+    }
+]

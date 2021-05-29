@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- googlefonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap" rel="stylesheet">
+    <!-- Mis estilos -->
+    <link rel="stylesheet" href="/css/styles.css">
+    <title>Fechas Patrias</title>
+</head>
+<body>
+    <header class="header">
+        <h1 class="header-titulo">FECHAS PATRIAS</h1>
+    </header>
+
+    <main>
+        <section class="fechas">
+            <article class="buscador">
+                <h2 class="buscador-titulo">Buscador de fecha patria</h2>
+                <div class="buscador-control">
+                    <input type="text" name="date" id="date" class="date">
+                    <label for="date" class="buscador-label">Escribe una fecha</label>
+                </div>
+            </article>
+            <article class="cards">
+                <!-- Aca va el template de card-->
+            </article>
+        </section>
+    </main>
+    <footer class="footer">
+        <small>Hecho para el desafio de Robert - Danicof 2021&copy;</small>
+    </footer>
+
+    <template id="fecha-template">
+        <div class="card">
+            <header class="card-header">
+                <img src="../assets/images/22-2.jpg" alt="22-2">
+            </header>
+            <div class="card-body">
+                <h3 class="card-title">Soberanía en la Antártida Argentina</h3>
+                <p class="card-description">El ejercicio de la soberanía argentina sobre la Antártida Argentina se efectiviza en todos los aspectos que no se encuentran limitados por la firma del Tratado Antártico en 1959.</p>
+            </div>
+            <div class="card-footer">22 de febrero</div>
+
+        </div>
+    </template>
+    <script src="/js/main.js"></script>
+</body>
+</html>
